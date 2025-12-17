@@ -1,6 +1,6 @@
 ## ConsoleEngine
 
-this is my attemt to create console engine that can render and manage scenes.
+this is my attempt to create a console engine that can render and manage scenes.
 trying to mimic gameEngines.
 but can be useful as base for any console base application.
 #### feel free to use it or even contribute 
